@@ -220,27 +220,101 @@ menu{
 /* Row-5 CSS End */
 
 /* Row-6 CSS Start */
-.row6{}
-.customer_section{}
-.customer_title{}
-.customer_title h2{}
-.customer_item_all{}
-.customer_item{}
-.customer_item img{}
-.customer_item p{}
+.row6{
+    height: 650px;
+    width: 100%;
+    background: white;
+}
+#row6{
+    height: 630px;
+    width: 100%;
+    background: #fff;
+}
+.customer_section{
+    width: 65%;
+    margin: 0 auto;
+    height: 100%;
+    padding: 50px 0px;
+
+}
+.customer_title{
+
+}
+.customer_title h2{
+    text-align: center;
+    padding: 30px 0px;
+    font-size: 30px;
+}
+.customer_item_all{
+
+}
+.customer_item{
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+}
+.customer_item img{
+    width: 100%;
+    height: 134px;
+
+}
+.customer_item p{
+    text-align: justify;
+}
 .customer_item h4{}
 /* Row-6 CSS End */
 
 /* Row-7 CSS End */
-#row7{}
-.footer_section{}
+#row7{
+    height: 450px;
+    width: 100%;
+    background: #0B3545;
+}
+.footer_section{
+    width: 75%;
+    margin: 0 auto;
+    padding: 50px 0px ;
+}
 .footer_item_all{}
-.footer_item{}
-.footer_item h4{}
-.footer_item p{}
-.footer_item ul{}
-.footer_item ul li{}
-.footer_item i{}
+.footer_item{
+    width: 22%;
+    float: left;
+    color: white;
+    margin-left: 30px;
+}
+.footer_item h4{
+    font-size: 25px;
+    color: orangered;
+    padding-bottom: 20px;
+    text-transform: capitalize;
+}
+.footer_item p{
+  text-align: center;
+  line-height: 20px;
+
+}
+.footer_item ul{
+
+}
+.footer_item ul li{
+    list-style: none;
+    border-bottom: 2px solid white;
+    width: 199px;
+    padding-left: 11px;
+    padding-bottom: 5px;
+
+
+}
+.footer_item i{
+    font-size:25px ;
+    height: 50px;
+    width: 50px;
+    background: white;
+    color: orangered;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 50px;
+}
 /* Row-7 CSS Start */
 
 
